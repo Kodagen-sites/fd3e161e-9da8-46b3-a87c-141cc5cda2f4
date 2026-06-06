@@ -1,0 +1,7 @@
+{
+  "frameCount": 240,
+  "frameDir": "/frames",
+  "frameUrlTemplate": "/frames/frame-{NNNN}.jpg",
+  "sceneId": "scene-1",
+  "storage": "local"
+}

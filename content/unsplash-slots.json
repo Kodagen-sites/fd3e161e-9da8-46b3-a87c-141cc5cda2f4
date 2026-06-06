@@ -1,0 +1,17 @@
+[
+  { "slot": "section-hero", "keyword": "whisky distillery oak barrels warehouse", "orientation": "landscape" },
+  { "slot": "section-about", "keyword": "copper pot still scotch whisky distillery", "orientation": "landscape" },
+  { "slot": "section-heritage", "keyword": "highland scotland distillery stone building", "orientation": "landscape" },
+  { "slot": "section-process", "keyword": "oak whisky casks maturation cellar", "orientation": "landscape" },
+  { "slot": "section-founder", "keyword": "master distiller man portrait whisky", "orientation": "portrait" },
+  { "slot": "service-tours", "keyword": "whisky distillery tour interior copper", "orientation": "landscape" },
+  { "slot": "service-cask", "keyword": "single oak whisky cask barrel closeup", "orientation": "portrait" },
+  { "slot": "service-tastings", "keyword": "whisky tasting flight glasses amber", "orientation": "landscape" },
+  { "slot": "service-bottling", "keyword": "amber whisky bottle dark moody", "orientation": "portrait" },
+  { "slot": "work-1", "keyword": "amber single malt whisky glass", "orientation": "landscape" },
+  { "slot": "work-2", "keyword": "whisky bottle aged label dark", "orientation": "landscape" },
+  { "slot": "work-3", "keyword": "whisky pouring into glass", "orientation": "landscape" },
+  { "slot": "work-4", "keyword": "oak barrel char whisky cask", "orientation": "landscape" },
+  { "slot": "work-5", "keyword": "whisky cask warehouse rows", "orientation": "landscape" },
+  { "slot": "work-6", "keyword": "neat whisky glass candlelight", "orientation": "landscape" }
+]
